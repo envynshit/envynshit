@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="lain.gif" alt="Lain GIF">
+</p>
+
 
 <!--
 **envynshit/envynshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
